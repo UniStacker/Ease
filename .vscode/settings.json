@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "cjson.h": "c",
+        "inter_rep.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}

@@ -1,0 +1,4 @@
+num1 = 10 + 25
+num2 = 25 + 75
+
+say "Number1 = {num1}, Number2 = {num2}"
